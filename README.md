@@ -19,7 +19,7 @@ Features
 
 2. Usage
 Now you can start your node with one simple command:
-  - To run with a different port (e.g., 5000):
+      - To run with a different port (e.g., 5000):
      
-      ./run-mesh.sh 5000
+      ./nodemesh.sh 5000
 
